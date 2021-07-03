@@ -1,1 +1,2 @@
 # ECG-monitoring-and-decision-support-system
+ This Project applies machine-learning classifiers and deep neural networks to identify arrhythmia health risk and estimate severity by learning pattern within the database which serve as the basic predictions about patient heart condition and upload these parameters and recording to web server for future analyses by cardical physician worldwide. Also, this system can be integrated in ambulance ,rural heath centers, ships, trains, airplanes as well as home monitoring.
